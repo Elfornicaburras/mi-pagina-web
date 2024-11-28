@@ -1,6 +1,14 @@
-table {border: 10px; background-color: rgba(207, 241, 142, 0.199);}
 h1{ text-align: center; background: linear-gradient(beige, rgb(162, 248, 237)
 
     );}
 body {background: linear-gradient(rgb(153, 153, 243), rgb(183, 235, 183));}
 .perfil {width: 200px; border-radius: 20%; border: 5px solid;}
+.button { background-color: #4CAF50; color: white; padding: 15px
+    32px; text-align: center; text-decoration: none; display: inlineblock; font-size: 16px; margin: 4px 2px; cursor: pointer; box-shadow: 5px; border-radius: 5.0
+    ; }
+.button:hover {border: #555 2px solid; 
+    box-shadow: 5px 5px 5px #ee4e4e;  
+    }
+
+table { border-collapse: collapse; width: 100%; } td, th { border:
+        1px solid rgb(255, 70, 70); text-align: left; padding: 8px; }
